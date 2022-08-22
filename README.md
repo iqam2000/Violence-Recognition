@@ -11,6 +11,7 @@ The fundamental goal of this Project is to recognize the real-time state of huma
 
 ## Dataset link
 https://www.kaggle.com/datasets/odins0n/ucf-crime-dataset
+https://www.kaggle.com/datasets/minhajuddinmeraj/anomalydetectiondatasetucf?select=All_Data
 
 
 
